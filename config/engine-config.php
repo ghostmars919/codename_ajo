@@ -1,7 +1,7 @@
 <?php
 	//Variabili e costanti
 	$nome_db = "php";
-	$host= "localhost";
+	$host= "127.5.174.130:3306";
 	$user = "adminD1VznrN";
 	$passwd="hPj3P_BQVqPQ";
 
