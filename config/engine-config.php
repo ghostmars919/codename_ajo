@@ -1,6 +1,6 @@
 <?php
 	//Variabili e costanti
-	$nome_db = "trad_sardo";
+	$nome_db = "php";
 	$host= "localhost";
 	$user = "adminD1VznrN";
 	$passwd="hPj3P_BQVqPQ";
