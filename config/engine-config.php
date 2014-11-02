@@ -2,8 +2,8 @@
 	//Variabili e costanti
 	$nome_db = "trad_sardo";
 	$host= "localhost";
-	$user = "root";
-	$passwd="";
+	$user = "adminD1VznrN";
+	$passwd="hPj3P_BQVqPQ";
 
 
 	//Connessione al DB
