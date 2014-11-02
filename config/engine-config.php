@@ -16,7 +16,7 @@
 	}
 	else
 	{ 
-		echo "Impossibile connettersi, riprovare!\n".mysql_error();
+		echo "Impossibile connettersi, riprovare!\n";
 	}
 
 	
