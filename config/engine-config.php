@@ -1,9 +1,9 @@
 <?php
 	//Variabili e costanti
 	$nome_db = "php";
-	$host = $OPENSHIFT_MYSQL_DB_HOST.":".$OPENSHIFT_MYSQL_DB_DB_PORT;
+	//$host = $OPENSHIFT_MYSQL_DB_HOST.":".$OPENSHIFT_MYSQL_DB_DB_PORT;
 	echo $host;
-	//$host= "127.5.174.130:3306";
+	$host= "127.5.174.130:3306";
 	$user = "adminD1VznrN";
 	$passwd="hPj3P_BQVqPQ";
 
